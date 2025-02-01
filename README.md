@@ -19,3 +19,6 @@ I just LOVE widgets
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=whathellis.whathellis)
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=whathellis&repo=whathellis&countColorcountColor&countColor=%237B1E7B"/>
+
+[![Codewars Badge](https://www.codewars.com/users/mashroomash/badges/large)](https://www.codewars.com/users/mashroomash)
+[![mashroomash Medium](https://github-readme-medium.vercel.app/?username=mashroomash)](https://medium.com/@mashroomash)
