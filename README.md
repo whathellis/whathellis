@@ -2,6 +2,11 @@ I just LOVE widgets
 
 [![Sparkline](https://stars.medv.io/whathellis/badges.svg)](https://stars.medv.io/whathellis/badges)
 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
 [![whathellis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whathellis&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---whathellis/whathellis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
@@ -15,3 +20,5 @@ I just LOVE widgets
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=whathellis&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whathellis&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://api.githubtrends.io/user/svg/whathellis/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=classic) 
