@@ -1,4 +1,6 @@
-I just LOVE widgets 
+I just LOVE widgets (I'll clean it up later) 
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=whathellis)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/whathellis/contributions?format=svg&private=true)  
 
