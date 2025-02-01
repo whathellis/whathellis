@@ -1,5 +1,7 @@
 I just LOVE widgets (I'll clean it up later) 
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/679e828fd7c9b4cc8b1a7e7b?variant=dark&roadmaps=full-stack%2Cux-design%2Cjavascript" alt="roadmap.sh"/></a>
+
 <a href="https://app.daily.dev/mashroomash"><img src="./devcard.png" width="356" alt="Resting Pises's Dev Card"/></a>
 
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=whathellis)
