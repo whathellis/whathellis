@@ -1,5 +1,11 @@
 I just LOVE widgets (I'll clean it up later) 
 
+![github-trophies](https://stats.hyo.dev/api/github-trophies?login=whathellis)
+
+![github-stats](https://stats.hyo.dev/api/github-stats?login=whathellis)
+
+![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=whathellis)
+
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=whathellis)](https://github.com/LordDashMe/github-contribution-stats/)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/whathellis/contributions?format=svg&private=true)  
