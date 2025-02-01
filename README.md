@@ -1,5 +1,7 @@
 I just LOVE widgets (I'll clean it up later) 
 
+<a href="https://app.daily.dev/mashroomash"><img src="https://api.daily.dev/devcards/v2/6fSYuIJvGw8FDW5ik0wRK.png?type=default&r=921" width="356" alt="Resting Pises's Dev Card"/></a>
+
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=whathellis)
 
 ![github-stats](https://stats.hyo.dev/api/github-stats?login=whathellis)
