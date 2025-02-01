@@ -14,6 +14,8 @@ nothing to read
 
 <a href="https://www.instagram.com/mashroomash/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://www.facebook.com/mashrooomash" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=facebook&logoColor=white" alt="Facebook"></a> <a href="https://linktr.ee/whathellis" target="_blank"><img src="https://img.shields.io/badge/Linktree-%231ED760.svg?&style=flat&Color=black" alt="Linktree"></a>
 
-<img src="https://komarev.com/ghpvc/?username=whathellis&color=brightgreen" alt="watching_count" /> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=whathellis.whathellis)
+<img src="https://komarev.com/ghpvc/?username=whathellis&color=brightgreen" alt="watching_count" />
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=whathellis.whathellis)
 
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=whathellis&repo=whathellis&countColorcountColor&countColor=%237B1E7B"/>
