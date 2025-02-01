@@ -5,7 +5,7 @@ I just LOVE widgets
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/0" alt="Recent Article 0"> 
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@whathellis/2" alt="Recent Article 2"> 
 
 [![whathellis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=whathellis&bg_color=0d0e12&color=1c81ce&line=0f1129&point=079ae4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
