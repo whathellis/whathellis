@@ -2,6 +2,7 @@
 
 <details>
   <summary>I just LOVE widgets (I'll clean it up later)</summary>
+ 
 ![github-trophies](https://stats.hyo.dev/api/github-trophies?login=whathellis)
 
 <img src="https://roadmap.sh/card/wide/679e828fd7c9b4cc8b1a7e7b?variant=dark&roadmaps=full-stack%2Cux-design%2Cjavascript" alt="roadmap.sh"/></a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=whathellis&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /><a href="https://roadmap.sh">
